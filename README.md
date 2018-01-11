@@ -2,4 +2,16 @@
 ## New component in React Js
 New componnet Person has been created and used in app.js
 
-### Followign are the commands to create Hello-world app and adding new component
+### Following are the commands to create Hello-world app and adding new component
+
+We will use npm to create react app so isntall node first.
+
+Now go to node command interface and run these commands:
+
+Install create-react-app command: 
+npm i -g create-react-app
+
+Now use create-react-app command to create your hellow-world application:
+create-react-app hellow-world
+ 
+ 
