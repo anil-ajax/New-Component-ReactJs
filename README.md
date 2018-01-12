@@ -20,3 +20,6 @@ cd hello-world
 
 Start your app. It will open the app in your web browser automatically.
 npm start
+
+### To create new component
+Create a new folder in src directory e.g. Person folder. Create Person.js file inside it. Refer to the code to see how it looks and how to use custom component.
